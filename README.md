@@ -1,4 +1,4 @@
-# ERC-20 Token Workshop 🪙
+# ERC-20 Token Workshop 📄
 
 Build and deploy your own ERC-20 token to the **Sepolia test network** using MetaMask. By the end you'll have a real, live token on a public testnet that you can view in a block explorer.
 
